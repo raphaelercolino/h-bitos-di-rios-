@@ -37,7 +37,7 @@ O habits é uma aplicação web visado nos hábitos diários.
 
 - [acesse o projeto online](https://raphaelercolino.github.io/h-bitos-di-rios-/)
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado online](https://maykbrito.github.io/devlinks)
 
 ## 🔖 Layout
 
